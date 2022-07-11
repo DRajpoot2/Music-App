@@ -1,0 +1,17 @@
+.bg-image {
+    /* The image used */
+    background-image: url("../../../assets/images/musicj.jpeg");
+    width: max-content;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* Add the blur effect */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: blanchedalmond;
+}
+
+
+/* style="background-image: url('back.jpeg'); width:100%;background-repeat: no-repeat;background-size: cover;" */
